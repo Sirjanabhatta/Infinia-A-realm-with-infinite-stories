@@ -1,0 +1,26 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 13, in script
+    init python:
+  File "game/script.rpy", line 18, in <module>
+    genai.configure(api_key="AIzaSyCPd0_bydYrGHMDPH3J7BXVEG04ObSaaWA")
+NameError: name 'genai' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 13, in script
+    init python:
+  File "/Users/suramya/Desktop/renpy-8.1.3-sdk/renpy/ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/Users/suramya/Desktop/renpy-8.1.3-sdk/renpy/python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 18, in <module>
+    genai.configure(api_key="AIzaSyCPd0_bydYrGHMDPH3J7BXVEG04ObSaaWA")
+NameError: name 'genai' is not defined
+
+macOS-14.1.1-arm64-arm-64bit arm64
+Ren'Py 8.1.3.23091805
+Ren'Py Tutorial Game Ren'Py 8.1.3.23091805
+Fri Jan 12 21:30:00 2024

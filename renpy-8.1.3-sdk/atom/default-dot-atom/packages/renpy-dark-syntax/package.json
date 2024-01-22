@@ -1,0 +1,46 @@
+{
+  "_from": "https://www.atom.io/api/packages/renpy-dark-syntax/versions/1.2.0/tarball",
+  "_id": "renpy-dark-syntax@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-QykbSiPJ1cTQLjROOuEZ2nKw/QTRssqME3o8gmbacHK9ToZGxcIiBmgyjVvFmFOpfC9rYFo3hlx5soM665MCIw==",
+  "_location": "/renpy-dark-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/renpy-dark-syntax/versions/1.2.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/renpy-dark-syntax/versions/1.2.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/renpy-dark-syntax/versions/1.2.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/renpy-dark-syntax/versions/1.2.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/renpy-dark-syntax/versions/1.2.0/tarball",
+  "_shasum": "d814134d64a05b7cc97422bf6221368c8e40bb43",
+  "_spec": "https://www.atom.io/api/packages/renpy-dark-syntax/versions/1.2.0/tarball",
+  "_where": "/tmp/apm-install-dir-202254-4070076-1qzr11b.lgntf",
+  "bugs": {
+    "url": "https://github.com/renpy/renpy-dark-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "An Atom syntax theme that matches the style of the Ren'Py documentation.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/renpy/renpy-dark-syntax#readme",
+  "keywords": [
+    "renpy",
+    "syntax",
+    "theme"
+  ],
+  "license": "MIT",
+  "name": "renpy-dark-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renpy/renpy-dark-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "1.2.0"
+}

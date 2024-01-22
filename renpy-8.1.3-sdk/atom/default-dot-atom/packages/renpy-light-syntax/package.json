@@ -1,0 +1,46 @@
+{
+  "_from": "https://www.atom.io/api/packages/renpy-light-syntax/versions/1.2.0/tarball",
+  "_id": "renpy-light-syntax@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-dAPWvbcOdIF7p50Naowz/grUJPRSm4iQ0AuOWzhfNk58xT4XDGhJSw+mmfdWCRPVCIYn326qRAVxj2ziKTDl6Q==",
+  "_location": "/renpy-light-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/renpy-light-syntax/versions/1.2.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/renpy-light-syntax/versions/1.2.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/renpy-light-syntax/versions/1.2.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/renpy-light-syntax/versions/1.2.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/renpy-light-syntax/versions/1.2.0/tarball",
+  "_shasum": "40e2a6996d8434e8381095fa5456882f66cd37d4",
+  "_spec": "https://www.atom.io/api/packages/renpy-light-syntax/versions/1.2.0/tarball",
+  "_where": "/tmp/apm-install-dir-202254-4070076-nb516x.tby4b",
+  "bugs": {
+    "url": "https://github.com/renpy/renpy-light-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ren'Py's light syntax theme.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/renpy/renpy-light-syntax#readme",
+  "keywords": [
+    "renpy",
+    "syntax",
+    "theme"
+  ],
+  "license": "MIT",
+  "name": "renpy-light-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renpy/renpy-light-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "1.2.0"
+}

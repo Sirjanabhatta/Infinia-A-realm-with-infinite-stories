@@ -1,0 +1,8 @@
+'.source.renpy':
+  'editor':
+    'autoIndentOnPaste': false
+    'tabLength': 4
+    'foldEndPattern': '^\\s*"""\\s*$'
+    'commentStart': '# '
+    'increaseIndentPattern' : ':\\s*$'
+    'decreaseIndentPattern': '^\\s*(elif|else|except|finally)\\b.*:'
